@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-zhrqdi/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-zhrqdi/static/js/main.f399465a.chunk.js",
-    "main.js.map": "https://.github.io/csb-zhrqdi/static/js/main.f399465a.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-zhrqdi/static/js/runtime-main.481a8ed8.js",
-    "runtime-main.js.map": "https://.github.io/csb-zhrqdi/static/js/runtime-main.481a8ed8.js.map",
-    "static/js/2.0fd3f829.chunk.js": "https://.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js",
-    "static/js/2.0fd3f829.chunk.js.map": "https://.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js.map",
-    "index.html": "https://.github.io/csb-zhrqdi/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-zhrqdi/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
+    "main.css": "https://mohamed12332232.github.io/csb-zhrqdi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/runtime-main.533b6f50.js",
+    "runtime-main.js.map": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/runtime-main.533b6f50.js.map",
+    "static/js/2.0fd3f829.chunk.js": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js",
+    "static/js/2.0fd3f829.chunk.js.map": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js.map",
+    "index.html": "https://mohamed12332232.github.io/csb-zhrqdi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mohamed12332232.github.io/csb-zhrqdi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://mohamed12332232.github.io/csb-zhrqdi/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.481a8ed8.js",
+    "static/js/runtime-main.533b6f50.js",
     "static/js/2.0fd3f829.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.f399465a.chunk.js"
